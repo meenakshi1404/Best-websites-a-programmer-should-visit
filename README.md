@@ -334,6 +334,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Job Interview: How to Ace a Job Interview/The Art of Manliness](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
 - [Job interviews News, Videos, Reviews and Gossip - Lifehacker](https://lifehacker.com/search?s=job%20interviews/)
 - [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204)
+- [Avatto](https://www.avatto.com/data-scientist/interview-questions/sql-tricky/) : A new way to prepare for SQL tricky Questions
 - [kimberli/interviews](https://github.com/kimberli/interviews) : study sheet for Interview
 - [LeetCode](https://leetcode.com/) : A new way to learn. Here you can prepare for your interview.
 - [Learnersbucket](https://learnersbucket.com): Data Structures and Algorithms in Javascript.
